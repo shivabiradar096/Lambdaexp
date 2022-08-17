@@ -1,1 +1,1 @@
-consol.log("This is lambda project")
+consol.log("This is lambda Pro")
